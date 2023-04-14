@@ -11,7 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "firebase": "^9.18.0"
+    "@sweetalert2/themes": "^5.0.15",
+    "firebase": "^9.19.1",
+    "kill-port": "^2.0.1"
   },
   "devDependencies": {
     "webpack": "^5.75.0",
